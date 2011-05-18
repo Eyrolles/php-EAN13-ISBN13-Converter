@@ -1,0 +1,4 @@
+This classes can convert an EAN-13 to an ISBN-13 and vice versa.
+It uses the RangeMessage.xml, provided by http://www.isbn-international.org/page/ranges .
+
+You can find examples in the examples.php file.
